@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.game{
+    height:70px;
+    width: 100%;
+}
+
+.g-hedding{
+    color:rgb(46, 45, 45);
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.user-choices{
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    gap: 60px;
+    margin: 20px 0px;
+}
+
+.user-choce .img{
+    height:25vh;
+    width:auto;  
+}
+
+.img:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.score{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+}
+
+.user-score .score1{
+    height:auto;
+    font-size:60px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:70px;
+}
+
+.user-p{
+    height:auto;
+    font-size:20px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+
+.msg{
+    height: 9vh;
+    width: auto;
+    font-size:35px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 55px;
+}
+
+#msg2{
+    height: 100%;
+    width: auto;
+    background-color: rgb(52, 51, 51);
+    color:rgb(169, 168, 168);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 20px;
+}
+
+
+.msg1:hover{
+    background-color:rgb(169, 168, 168);
+    color: rgb(50, 48, 48);
+    cursor: pointer;
+}
