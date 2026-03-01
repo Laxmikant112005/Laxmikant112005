@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laxmikant Sangolagi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;CSE+Student;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+ +AI+%26+ML+Enthusiast+ +CSE+Student;Future+Software+Engineer" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science & Engineering Student  
-- 💻 Full Stack Developer (MERN Stack)  
+- 💻 MERN Stack Developer  
 - 🤖 Machine Learning Enthusiast  
 - 🔥 Strong in Logic Building & Problem Solving  
 - 🎯 Goal: Become a Top Software & AI Engineer  
@@ -20,52 +20,51 @@
 
 ### 🌐 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
 </p>
 
 ### 🖥️ Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
 </p>
 
 ### 🤖 Machine Learning
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
 </p>
 
 <p align="center">
-Pandas • NumPy • Matplotlib • Scikit-learn
+  Pandas &nbsp;&nbsp;•&nbsp;&nbsp; NumPy &nbsp;&nbsp;•&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;•&nbsp;&nbsp; Scikit-learn
 </p>
-
----
-
-## 🚀 Projects
-
-### 🔬 Cancer Detection using ML
-- Data preprocessing with Pandas & NumPy  
-- Visualization using Matplotlib  
-- Model training using Scikit-learn  
-- Accuracy improvement & evaluation  
-
-### 🏢 Hostel Management System
-- Backend using Node.js & Express  
-- MongoDB database integration  
-- CRUD operations implementation  
-
-### 🌾 Kurshibandu Project
-- Real-world agriculture support solution  
-- Focused on practical problem-solving  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmikantsangolagi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmikantsangolagi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantsangolagi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantsangolagi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmikantsangolagi&theme=tokyo-night" />
 </p>
 
 ---
@@ -73,15 +72,17 @@ Pandas • NumPy • Matplotlib • Scikit-learn
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/laxmikant-sangolagi">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:laxmikantsangolagi948@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-<a href="https://instagram.com/_sangolagi">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/laxmikant-sangolagi">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:laxmikantsangolagi948@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_sangolagi">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
 </p>
 
 ---
