@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laxmikant Sangolagi</h1>
-<h3 align="center">🚀 CSE Student | AI & ML Enthusiast | Future Software Engineer</h3>
+<h3 align="center">🚀 CSE Student | Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=laxmikantsangolagi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -10,63 +10,64 @@
 ## 🧠 About Me
 
 - 🎓 Computer Science and Engineering Student  
-- 💡 Passionate about Machine Learning & AI  
+- 💡 Passionate about Artificial Intelligence & Full Stack Development  
 - 🔥 Strong in Logic Building and Problem Solving  
-- 📚 Currently improving DSA and ML skills  
-- 🎯 Goal: Become a Top AI Engineer  
+- 📚 Continuously improving DSA, ML & Backend Development  
+- 🎯 Goal: Become a Top Software & AI Engineer  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 🌐 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🌐 Web Development
+### 🖥️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🤖 Machine Learning
+### 🤖 Machine Learning & Data Science
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Scikit-learn  
 
 ---
 
 ## 🚀 Projects
 
-### 🔬 Cancer Detection using ML
-- Data preprocessing & feature scaling
-- Model training using Scikit-learn
-- Performance evaluation & accuracy improvement
+### 🔬 Cancer Detection using Machine Learning
+- Data preprocessing using Pandas & NumPy  
+- Data visualization with Matplotlib  
+- Model training using Scikit-learn  
+- Performance evaluation & accuracy improvement  
 
 ### 🏢 Hostel Management System
-- Student record management
-- Database integration
-- CRUD operations
+- Built using Full Stack technologies  
+- Backend with Node.js & Express  
+- Database management using MongoDB  
 
 ### 🌾 Kurshibandu Project
-- Real-world agriculture support solution
-- User-focused system design
+- Real-world agriculture support system  
+- Focused on practical problem-solving  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmikantsangolagi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmikantsangolagi&theme=tokyonight" />
 </p>
 
 ---
@@ -74,14 +75,19 @@
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank">
+<a href="https://www.linkedin.com/in/laxmikant-sangolagi" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
 </a>
-<a href="mailto:youremail@gmail.com">
+
+<a href="mailto:laxmikantsangolagi948@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/_sangolagi" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *"Code. Learn. Build. Repeat."*
