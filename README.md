@@ -8,55 +8,58 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Engineering Student  
-- 💻 MERN Stack Developer  
-- 🤖 Machine Learning Enthusiast  
-- 🔥 Strong in Logic Building & Problem Solving  
-- 🎯 Goal: Become a Top Software & AI Engineer  
+* 🎓 **Education:** Computer Science & Engineering Student
+* 💻 **Focus:** MERN Stack Developer
+* 🤖 **Passions:** Machine Learning Enthusiast
+* 🔥 **Strengths:** Logic Building & Problem Solving
+* 🎯 **Goal:** To become a Top-tier Software & AI Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-</p>
+<br/>
 
-### 🖥️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <h3>🌐 Frontend Development</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" height="55"/>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <h3>🖥️ Backend Development</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="55"/>
+    </td>
+  </tr>
+</table>
 
-### 🤖 Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="45"/>
-</p>
+<br/>
 
-<p align="center">
-  Pandas &nbsp;&nbsp;•&nbsp;&nbsp; NumPy &nbsp;&nbsp;•&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;•&nbsp;&nbsp; Scikit-learn
-</p>
+<div align="center">
+  <h3>🤖 AI / ML & Data Science</h3>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <br/><br/>
+  <code>Pandas</code> &nbsp; • &nbsp; 
+  <code>NumPy</code> &nbsp; • &nbsp; 
+  <code>Matplotlib</code> &nbsp; • &nbsp; 
+  <code>Scikit-learn</code>
+</div>
+
+<br/>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmikantsangolagi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmikantsangolagi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantsangolagi&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantsangolagi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -64,7 +67,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmikantsangolagi&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmikantsangolagi&theme=tokyo-night" width="100%" />
 </p>
 
 ---
@@ -73,20 +76,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/laxmikant-sangolagi">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:laxmikantsangolagi948@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/_sangolagi">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
 
----
-
 <p align="center">
-⭐ <b>Code. Learn. Build. Repeat.</b>
+  <br/>
+  <b>Code. Learn. Build. Repeat.</b>
 </p>
