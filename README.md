@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laxmikant Sangolagi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+ +AI+%26+ML+Enthusiast+ +CSE+Student;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;CSE+Student;Future+Software+Engineer" />
 </p>
 
 ---
