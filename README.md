@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Laxmikant Sangolagi</h1>
 
 <p align="center">
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;CSE+Student;Future+Software+Engineer" />
+  <br>
 </p>
 
 ---
 
 ## 🚀 About Me
-
 * 🎓 **Education:** Computer Science & Engineering Student
 * 💻 **Focus:** MERN Stack Developer
 * 🤖 **Passions:** Machine Learning Enthusiast
@@ -17,8 +18,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<br/>
 
 <table align="center" width="100%">
   <tr>
@@ -48,26 +47,20 @@
   <code>Scikit-learn</code>
 </div>
 
-<br/>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmikantsangolagi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="200" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laxmikant112005&theme=tokyonight" />
+  <img height="200" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laxmikant112005&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmikantsangolagi&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmikantsangolagi&theme=tokyo-night" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laxmikant112005&theme=tokyo-night&hide_border=true" width="85%"/>
 </p>
 
 ---
