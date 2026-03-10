@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;CSE+Student;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🤖+AI+%26+ML+Enthusiast;🎓+CSE+Student;💻+Future+Software+Engineer" />
   <br>
 </p>
 
