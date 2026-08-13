@@ -123,32 +123,28 @@
     width="100%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laxmikant112005&theme=tokyonight"
-    height="180"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laxmikant112005&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laxmikant112005&theme=tokyonight"
-    height="180"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laxmikant112005&theme=tokyonight&utcOffset=5.5"
-    height="180"
-  />
-</p>
-
----
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laxmikant112005&theme=tokyonight"
+        width="300"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laxmikant112005&theme=tokyonight"
+        width="300"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laxmikant112005&theme=tokyonight"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 📈 Contribution Activity
 
@@ -182,25 +178,3 @@
 * 🐍 Python & Data Analysis
 
 ---
-
-## 💡 Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-<p align="center">
-  💡 I turn coffee ☕ into code and ideas into reality 🚀
-</p>
-
----
-
-<p align="center">
-
-⭐️ From <a href="https://github.com/Laxmikant112005">Laxmikant112005</a>
-
-</p>
