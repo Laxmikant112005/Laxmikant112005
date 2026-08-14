@@ -27,91 +27,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Laxmikant112005">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/laxmikant-sangolagi-46a6862bb/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:laxmikantsangolagi948@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/laxmikant-sangolagi-46a6862bb/"><img src="https://skillicons.dev/icons?i=linkedin" width="35"></a>
+  <a href="mailto:laxmikantsangolagi948@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="35"></a>
+   <a href="https://github.com/Laxmikant112005"><img src="https://skillicons.dev/icons?i=github" width="35"></a>
+  <a href="https://leetcode.com/u/Laxmikant_Snagolagi"><img src="https://cdn.simpleicons.org/leetcode" width="35"></a>
 </p>
 
----
-
-<div align="center">
-
-## 🛠️ My Tech Toolbox
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Collab-00F2FF?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Role-Developer-white?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,pandas,numpy,sklearn,git,github,vscode" />
 </p>
-
----
-
-### 👨‍💻 Programming Languages
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
+  <img src="https://img.shields.io/badge/🟢_Open_to_Collab-111?style=flat-square">
+  <img src="https://img.shields.io/badge/⚡_Full_Stack_Developer-111?style=flat-square">
+  <img src="https://img.shields.io/badge/🤖_AI%2FML_Enthusiast-111?style=flat-square">
 </p>
-
----
-
-### 🌐 Web Development
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</p>
-
----
-
-### 🤖 AI & Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-</p>
-
----
-
-### ⚙️ Systems & Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
-</p>
-
-</div>
 
 ---
 
