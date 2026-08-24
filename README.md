@@ -49,12 +49,12 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laxmikant112005&theme=tokyonight"
     width="100%"
   />
-</p>
+</p> -->
 <table>
   <tr>
     <td align="center">
@@ -94,19 +94,4 @@
 
 * 🏠 **Dream House / Construction Management Platform**
 * 🤖 **Machine Learning Models**
-* 🌐 **Full Stack Web Applications**
-* 📊 **Data Structures & Algorithms**
-* 🐍 **Python & Data Science Projects**
-
----
-
-## 🧠 Currently Learning
-
-* 🤖 Machine Learning with Scikit-learn
-* 🧠 Artificial Intelligence
-* 💻 Data Structures & Algorithms
-* 🌐 Full Stack Development
-* ⚙️ Backend Development
-* 🐍 Python & Data Analysis
-
 ---
