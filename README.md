@@ -8,8 +8,6 @@
   🤖 AI/ML Enthusiast | 🌐 Web Developer | 💻 Software Engineer
 </h3>
 
----
-
 ## 🌟 About Me
 
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif">
@@ -22,7 +20,6 @@
 
 <br clear="right"/>
 
----
 
 ## 🌐 Connect With Me
 
@@ -45,7 +42,6 @@
   <img src="https://img.shields.io/badge/🤖_AI%2FML_Enthusiast-111?style=flat-square">
 </p>
 
----
 
 
 
