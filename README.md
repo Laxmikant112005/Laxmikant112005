@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+
 
 <!-- <p align="center">
   <img
@@ -55,7 +55,7 @@
     width="100%"
   />
 </p> -->
-<table>
+<!-- <table>
   <tr>
     <td align="center">
       <img
@@ -76,22 +76,12 @@
       />
     </td>
   </tr>
-</table>
+</table> -->
 
-## 📈 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
 
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Laxmikant112005&theme=tokyo-night&hide_border=true" />
 
-</p>
+</p> -->
 
----
-
-## 🔥 Featured Projects
-
-🚧 *Currently building and improving projects.*
-
-* 🏠 **Dream House / Construction Management Platform**
-* 🤖 **Machine Learning Models**
----
